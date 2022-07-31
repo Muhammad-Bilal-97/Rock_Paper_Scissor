@@ -1,4 +1,4 @@
-## Rock Paper Scissors
+## Rock Paper Scissor
 
 # Rules to play:
 * Rock wins against scissors.
